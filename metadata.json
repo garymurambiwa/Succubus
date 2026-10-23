@@ -1,0 +1,8 @@
+{
+  "name": "Succubus Bar & Restaurant Management",
+  "description": "Cocktails & Nightlife • Private Events • Special Experiences - Bar POS, Inventory Tracking, Tabs with Advance Deposits, and Cocktail Specs.",
+  "request_frame_permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
